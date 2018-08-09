@@ -1,1 +1,2 @@
-xlc -qasm -O3 -osecmgtoper -qlist secmgtoper.c >secmgtoper.lst 
+xlc -O3 -osecmgtoper secmgtoper.c
+
